@@ -1,0 +1,10 @@
+Instructions:
+1. Always import the list of music files you want to play first. Doing otherwise will result in errors. The program will not crash however, a error box is not implemented.
+2. When an operation is in progress the Program Status indicater in the middle of the panel, will switch from 'Ready' in Green to 'Loading' in Yellow. This sometimes takes a few seconds to happen. Pressing the button again may cancel out the action. Pressing another button may also do this.
+3. Changing the equaliser only applies to the graph and song playing when the apply button is clicked, the reset button and presets automatically apple.
+4. Pressing any of the four buttons to order the songs will pause and restart the music (review documentation for more).
+5. You can edit the current song details and either save it as a new file or replace the current file. By default a new file is made, this can be changed using the drop box. Simply type in the details and choose the file type.
+
+*Please note. I know Equaliser is spelt with an s. This is named after the movie for dramatic effect. It is the Equalizer of Music Players.
+
+C1887989, Sheik Gokhool.
